@@ -1,7 +1,8 @@
 # Sales_Insights-Tableau-SQL-
-This project has been made using SQL and Tableau which derive sales insights for hardware company.
+**This project has been made using SQL and Tableau which derive sales insights for hardware company.**
 
 #Aims Grid
+
 **Purpose** : To unlock sales insights that are not visible before for the sales team for decision support & automate them to reduce manual time spent in data gathering.
 
 **Stake Holders** : 
