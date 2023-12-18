@@ -21,7 +21,7 @@ This project has been made using SQL and Tableau which derive sales insights for
 **End Result** : An automated dashboard providing quick & latest sales insights in order to support data driven decísion making.
 
 
-Data Source : MySQL
+**Data Source : MySQL**
 **Tables** : Customers,Date,Markets,Products,Transactions
 
 
