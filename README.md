@@ -6,9 +6,13 @@ This project has been made using SQL and Tableau which derive sales insights for
 
 **Stake Holders** : 
 1.Sales Director
+
 2.Marketing Team
+
 3.Customer Service Team
+
 4.Data & Analytics Team
+
 5.IT
 
 **Success Criteria** :
